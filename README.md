@@ -22,6 +22,9 @@ Soy un profesional en **Ingeniería de Sistemas** con fuerte enfoque en **operac
 ### ⚙️ DevOps · Observabilidad
 [![My Skills](https://skillicons.dev/icons?i=docker,git,gitlab,github,grafana,prometheus)](https://skillicons.dev)
 
+### 🔐 Ciberseguridad
+<img src="icons/burpsuite.svg" alt="Burp Suite" width="56" height="56">
+
 ### 🧰 Herramientas
 [![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,vim)](https://skillicons.dev)
 
