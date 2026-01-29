@@ -24,9 +24,9 @@ Soy un profesional en **Ingeniería de Sistemas** con fuerte enfoque en **operac
 
 ### 🔐 Ciberseguridad
 <p align="left">
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;background:#1f2937;border-radius:12px;">
-    <img src="icons/burpsuite.png" alt="Burp Suite" width="32" height="32" />
-  </span>
+  <img src="icons/burpsuite.svg" alt="Burp Suite" width="56" height="56" />
+  <img src="icons/zap.svg" alt="OWASP ZAP" width="56" height="56" />
+  <img src="icons/wireshark.svg" alt="Wireshark" width="56" height="56" />
   <img src="icons/metasploit.svg" alt="Metasploit" width="56" height="56" />
   <img src="icons/vmware.svg" alt="VMware" width="56" height="56" />
 </p>
